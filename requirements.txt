@@ -1,0 +1,4 @@
+pandas==1.4.0
+psycopg2==2.9.3
+SQLAlchemy==1.4.29
+vk_api==11.9.7
